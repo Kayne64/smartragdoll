@@ -14,4 +14,4 @@ A Smarter Ragdoll Script
 # Credits
 Myself - Coding
 Ziggy - Help
-Go to discord.gg/XH6sCKxewk
+Go to discord.gg/XH6sCKxewk for support
