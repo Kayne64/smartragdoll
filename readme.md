@@ -12,6 +12,6 @@ A Smarter Ragdoll Script
 3. Support
 
 # Credits
-Myself - Coding
-Ziggy - Help
-Go to discord.gg/XH6sCKxewk for support
+1. Myself - Coding
+2. Ziggy - Help
+3. Go to discord.gg/XH6sCKxewk for support
