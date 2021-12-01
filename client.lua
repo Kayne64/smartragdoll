@@ -18,10 +18,18 @@ Citizen.CreateThread(function()
     end
 end)
 
---Ragdoll if Stamina is less than defined
 Citizen.CreateThread(function()
     while true do 
-        Citizen.Wait(0)
+        Citizen.Wait(0) 
         if IsPedJumping(player) and stamina < config.stamina then
-            SetPedToRagdoll(player, 1000, 1000, 0, true, true, false)
+    SetPedToRagdoll(player, 1000, 1000, 0, true, true, false)
+        end 
+    end 
 end)
+
+--Commands for Ragdoll
+RegisterCommand("restorestamina", function()
+    RestorePlayerStamina(player, 1.0)
+end)
+
+TriggerEvent('chat:addSuggestion', '/restorestamina', 'Restores Players Stamina')
