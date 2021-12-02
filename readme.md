@@ -1,17 +1,25 @@
-# Smart Ragdoll Script
-A Smarter Ragdoll Script
+# Smart Ragdoll
+*This is a Ragdoll Script which has a Keybind and you automatically ragdoll when under a certain stamina*
+
+# Screenshots
+https://streamable.com/6uituc
+https://streamable.com/p5wlhg
+
+# Features
+1. Easily Configurable
+2. Excellent Support
+3. Easy to Install
 
 # Installation
-1. Drag and Drop Resource into Resources
-2. Start 'smartragdoll' without the quotes to server.cfg
-3. Enjoy
+1. Drag and Drop Resource
+2. Start Resource in server.cfg
+3. Configure Stamina -- Can be from 50-100
+4. Configure Key - found [here](http://docs.fivem.net/docs/game-references/controls/)
+# Credits/Permission
+Ziggy for Help
+Support [here](https://discord.gg/XH6sCKxewk)
 
-# Features 
-1. Smart Ragdoll
-2. Easily Configurable
-3. Support
+**Don't Claim this as your own, Edit or modify it without my permission**
 
-# Credits
-1. Myself - Coding
-2. Ziggy - Help
-3. Go to discord.gg/XH6sCKxewk for support
+# Download
+[Download Here](https://github.com/Kayne64/smartragdoll)
